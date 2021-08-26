@@ -1,7 +1,7 @@
 # HR_Synthetic_Image_Generation
 GAN + Variational Autoencoders
 
-![Synthetic image](https://user-images.githubusercontent.com/78222574/122964390-82985880-d387-11eb-91e0-24809c15bba2.PNG)
+![SynImg](https://user-images.githubusercontent.com/78222574/131037804-d7a8836b-82c3-4dde-9963-40244e867e93.JPG)
 
 Image Super Resolution (x4)
 
